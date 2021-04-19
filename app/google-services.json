@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "583686811506",
+    "project_id": "fyp-instant-messenger",
+    "storage_bucket": "fyp-instant-messenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583686811506:android:214de21a8b47069fd2f7eb",
+        "android_client_info": {
+          "package_name": "app.fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583686811506-bbjjomckn8v9lr8fmn0rvv04e42afo77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH7lLnH01syDz2sgD5E4dfG4aFQ7ZuqCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583686811506-bbjjomckn8v9lr8fmn0rvv04e42afo77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
